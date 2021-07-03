@@ -26,13 +26,12 @@ npm install
 node index
 ```
 
-# Thanks to
+## Thanks to
 * [`FaxBotz`](https://github.com/FaxBotz)
 * [`Dinata`](https://github.com/Dinataaa)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-#Donate
+## Donate
 * [`ArdyBotz`](https://saweria.co/ArdyStore)
 * [`Dinata`](https://saweria.co/dinatabot)
 * [`FaxBotz`](https://saweria.co/FARDANWINX)
-
