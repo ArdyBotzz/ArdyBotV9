@@ -1172,6 +1172,8 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 ┌─❖「 *Main* 」
 │✙ *${prefix}afk <alasan>*
 │✙ *${prefix}help*
+│✙ *${prefix}sc
+│✙ *${prefix}sourcecode
 │✙ *${prefix}menu*
 │✙ *${prefix}sewa*
 │✙ *${prefix}sewabot*
@@ -2141,9 +2143,18 @@ tagnya = `${nomornya}@s.whatsapp.net`
 prem.push(`${nomornya}@s.whatsapp.net`)
 gess = `[SUKSES]\nBerhasil Add Premium @${nomornya}`
 fs.writeFileSync('./database/user/premium.json', JSON.stringify(prem))
-Ardy.sendMessage('6287863200063@s.whatsapp.net', gess, text, {quoted: mek, contextInfo: {"mentionedJid": [tagnya]}})
+Ardy.sendMessage(from, gess, text, {quoted: mek, contextInfo: {"mentionedJid": [tagnya]}})
 Ardy.sendMessage(tagnya, 'Ciee Dah Jadi User Premium🤭', text)
 break
+
+		case 'dellprem':
+				if (!isOwner) return reply(ind.ownerb())
+				premm = body.slice(11)
+				prem.splice(`${premm}@s.whatsapp.net`, 1)
+				fs.writeFileSync('./database/pengguna/premium.json', JSON.stringify(prem))
+				gees = `Nomor sudah berakhir menjadi premium kek tytyd si lu @${premm} `
+				Ardy.sendMessage(from, gess, text {quoted: mek, contextInfo: {"mentionedJid": [premm]}})
+				break
 
 case 'join':
 if (!mek.key.fromMe && !isOwner) return reply('Command Khusus Owner !!')
