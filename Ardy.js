@@ -2149,11 +2149,12 @@ break
 
 		case 'dellprem':
 				if (!isOwner) return reply(ind.ownerb())
-				premm = body.slice(11)
+				dia = body.slice(10)
+				premm = body.slice(10)
 				prem.splice(`${premm}@s.whatsapp.net`, 1)
 				fs.writeFileSync('./database/pengguna/premium.json', JSON.stringify(prem))
-				gees = `Nomor sudah berakhir menjadi premium kek tytyd si lu @${premm} `
-				Ardy.sendMessage(from, gess, text {quoted: mek, contextInfo: {"mentionedJid": [premm]}})
+				gees = `Nomor sudah berakhir menjadi premium kek tytyd si lu wa.me/${dia} `
+				reply(gess())
 				break
 
 case 'join':
