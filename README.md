@@ -35,3 +35,10 @@ node index
 * [`ArdyBotz`](https://saweria.co/ArdyStore)
 * [`Dinata`](https://saweria.co/dinatabot)
 * [`FaxBotz`](https://saweria.co/FARDANWINX)
+
+## Otak Gw Yang Di Pake
+</h6>
+<a class="dropdown-item align-items-center" href="#">
+<div class="mb-3">
+<div class="small text-gray-500">Copy Paste
+<div class="small float-right"><b>50%</b></div>
