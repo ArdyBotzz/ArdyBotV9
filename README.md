@@ -34,5 +34,5 @@ node index
 #Donate
 * [`ArdyBotz`](https://saweria.co/ArdyStore)
 * [`Dinata`](https://saweria.co/dinatabot)
-
+* [`FaxBotz`](https://saweria.co/FARDANWINX)
 
