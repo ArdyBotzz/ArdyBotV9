@@ -9,6 +9,7 @@ Lolhuman [Penyedia Apikey]
 Manik [ Costom Reply ]
 Perwira Kusuma [ Kang Bantu]*/
 //Gw Dah Fix Semua Fitur + Tambahin Fitur Premium
+//bu by bitch
 const {
    WAConnection,
    MessageType,
