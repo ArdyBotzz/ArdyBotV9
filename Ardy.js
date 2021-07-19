@@ -1164,7 +1164,6 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 
 ┌─❖「 *DEVELOPER* 」
 │✙ *Nama* : *Group Maneger Bot*
-│✙ *Ardy* : *@9475933569*
 │✙ *Note* : security fix
 └─❖
 
@@ -1352,8 +1351,8 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 │ • SCRIPT INI DI SUSUN OLEH
 │ • DEVELOPER DI BAWAH INI
 ├┬───────┈ ⳹
-│ • *Group Maneger : @9475933569*
-│ • *tag_user🎩 : @9475933569*
+│ • *Group Maneger : @6287863200063*
+│ • *tag_user🎩 : @6287863200063*
 └────────┈
         ║▌│█║▌│ █║▌│█│║▌║
         ║▌│█║▌│ █║▌│█│║▌║
