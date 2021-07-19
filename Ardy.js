@@ -65,7 +65,7 @@ NameBot = 'Group Maneger Bot 🪀😈'
 fakedoc = "PunyaArdy🤡"
 fakereply = "#MS_JESSICA 🦄🌈"
 faketoko = "ArdyStore🤡"
-imgbb = 'https://i.postimg.cc/zfHLySXF/20210626-102411.jpg'
+imgbb = 'https://telegra.ph/file/a3334214705ce825dad70.jpg'
 lolkey = '0e355253876c073d3ed3f163'
 xteam = 'AbilGanss'
 const ownerNumber = ["9475933569@s.whatsapp.net"]   
@@ -1346,13 +1346,11 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 │✙ *${prefix}dadu*
 │✙ *${prefix}sticker*
 │✙ *${prefix}sgif*
-│
-├────────────────────
-│ • SCRIPT INI DI SUSUN OLEH
-│ • DEVELOPER DI BAWAH INI
-├┬───────┈ ⳹
-│ • *Group Maneger : @6287863200063*
-│ • *tag_user🎩 : @6287863200063*
+└─❖
+
+┌┬───────┈ ⳹
+│ • *Group Maneger : @9475933569*
+│ • *tag_user🎩 : @9475933569*
 └────────┈
         ║▌│█║▌│ █║▌│█│║▌║
         ║▌│█║▌│ █║▌│█│║▌║
