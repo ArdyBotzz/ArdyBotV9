@@ -9,6 +9,7 @@ Lolhuman [Penyedia Apikey]
 Manik [ Costom Reply ]
 Perwira Kusuma [ Kang Bantu]*/
 //Gw Dah Fix Semua Fitur + Tambahin Fitur Premium
+//bu by bitch
 const {
    WAConnection,
    MessageType,
@@ -60,14 +61,14 @@ prefix = '#'
 blocked = [] 
 limitawal = 999 
 memberlimit = 1 
-NameBot = 'Ardy Bot'
+NameBot = 'Group Maneger Bot 🪀😈'
 fakedoc = "PunyaArdy🤡"
-fakereply = "ArdyNihBoss🤡"
+fakereply = "#MS_JESSICA 🦄🌈"
 faketoko = "ArdyStore🤡"
-imgbb = 'https://i.postimg.cc/zfHLySXF/20210626-102411.jpg'
-lolkey = 'YourApikey'
+imgbb = 'https://telegra.ph/file/a3334214705ce825dad70.jpg'
+lolkey = '0e355253876c073d3ed3f163'
 xteam = 'AbilGanss'
-const ownerNumber = ["6287863200063@s.whatsapp.net"]   
+const ownerNumber = ["9475933569@s.whatsapp.net"]   
 
 
 
@@ -1162,11 +1163,8 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 └─❖
 
 ┌─❖「 *DEVELOPER* 」
-│✙ *Nama* : Ardy🤡
-│✙ *Ardy* : *@6287863200063*
-│✙ *YouTube* : Ardy Store
-│✙ *Ig* : ff.ardy_store
-│✙ *Note* : Jan Spam Anjim🤡
+│✙ *Nama* : *Group Maneger Bot*
+│✙ *Note* : security fix
 └─❖
 
 ┌─❖「 *Main* 」
@@ -1348,13 +1346,11 @@ jam = moment.tz('Asia/Jakarta').format('HH:mm')
 │✙ *${prefix}dadu*
 │✙ *${prefix}sticker*
 │✙ *${prefix}sgif*
-│
-├────────────────────
-│ • SCRIPT INI DI SUSUN OLEH
-│ • DEVELOPER DI BAWAH INI
-├┬───────┈ ⳹
-│ • *Ardy🤡 : @6287863200063*
-│ • *Fardan🎩 : @6282334170916*
+└─❖
+
+┌┬───────┈ ⳹
+│ • *Group Maneger : @9475933569*
+│ • *tag_user🎩 : @9475933569*
 └────────┈
         ║▌│█║▌│ █║▌│█│║▌║
         ║▌│█║▌│ █║▌│█│║▌║
@@ -2242,7 +2238,7 @@ break
 case 'sc':
 case 'sourcecode':
 if (!isRegistered) return reply(ind.noregis())
-reply('Bot Ini Menggunakan Script :\nhttps://github.com/ArdyBotzz/ArdyBotV9')
+reply('Bot  Script :\nhttps://github.com/MrChaby/ArdyBotV9')
 break
 				default:
             if (budy.includes(`assalamualaikum`)) {
